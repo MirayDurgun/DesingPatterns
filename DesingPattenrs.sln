@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainOfResponsibilityDesingPatten", "ChainOfResponsibilityDesingPatten", "{F1A9EBD2-9616-4E7C-B4B3-34BEF6EEAC09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPattern.ChainofResponsibilty", "DesingPattern.ChainofResponsibilty\DesingPattern.ChainofResponsibilty.csproj", "{7EAB85F3-6B9F-4B76-A983-DB1515A760C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingPattern.ChainofResponsibilty", "DesingPattern.ChainofResponsibilty\DesingPattern.ChainofResponsibilty.csproj", "{7EAB85F3-6B9F-4B76-A983-DB1515A760C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
